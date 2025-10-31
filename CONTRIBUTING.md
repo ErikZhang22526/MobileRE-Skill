@@ -2,3 +2,4 @@
 
 Notes and usage details for MobileRE-Skill.
 - link the usage section
+- clarify the setup steps
